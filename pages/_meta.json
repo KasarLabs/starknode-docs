@@ -1,0 +1,32 @@
+{
+	"--": {
+		"type": "separator",
+		"title": "Introduction"
+	},
+	"index": "Deoxys",
+	"prerequisites": "Prerequisites",
+	"architecture": "Architecture",
+	"---": {
+		"type": "separator",
+		"title": "Setup"
+	},
+	"build": "Get started",
+	"starknet": "Starknet",
+	"network": "Network",
+	"contribute": "Contribute",
+	"----": {
+		"type": "separator",
+		"title": "Security"
+	},
+	"security": "FAQ",
+	"about": {
+		"title": "About",
+		"type": "page"
+	},
+	"contact": {
+		"title": "Contact ↗",
+		"type": "page",
+		"href": "https://t.me/kasarlabs",
+		"newWindow": true
+	}
+}
